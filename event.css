@@ -18,7 +18,7 @@
 /*gradient style*/
 body
 {
-    background-image: linear-gradient(to right,red,yellow);
+    background-image: linear-gradient(to right ,rgb(153, 222, 206), rgb(153, 222, 206));
 }
 .btn{
     height:40px;
